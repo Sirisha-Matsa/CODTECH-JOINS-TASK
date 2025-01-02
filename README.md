@@ -59,3 +59,6 @@ Extract specific data based on the presence or absence of values (IS NULL and IS
 
 Use subqueries to identify unmatched records (e.g., departments without employees).
 
+# OUTPUT:
+
+<img width="240" alt="JOINS" src="https://github.com/user-attachments/assets/ee0d4320-25d7-459a-8dac-adfe091f4b3b" />
